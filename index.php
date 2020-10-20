@@ -37,7 +37,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo mr-auto"><a href="index.html">Funda Ori</a></h1>
+      <h1 class="logo mr-auto"><a href="index.php">Funda Ori</a></h1>
     
 
       <nav class="nav-menu d-none d-lg-block">
@@ -71,7 +71,7 @@
           </div>
         </div> -->
         <!-- <div class="col-lg-4 d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-delay="200">
-          <a href="https://www.youtube.com/watch?v=GlrxcuEDyF8" class="venobox play-btn" data-vbtype="video" data-autoplay="true"></a>
+          <a href="#" class="venobox play-btn" data-vbtype="video" data-autoplay="true"></a>
         </div> -->
 
       </div>
@@ -84,7 +84,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-4 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
             <div class="about-img">
               <img src="assets/img/about.jpg" alt="">
             </div>
@@ -522,12 +522,12 @@
           <div class="testimonial-item">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              Le corona Santo el 20 de mayo de 2004, de manos de su madrina Aura Elena Rengifo (Omi Aye), su Oyugbona Lourdes Aranguren (Omi Gere), y su oriate Javier Abreu (Ativa Odde), recibe pinaldo de mano de sus madrinas bajo la dirección de Javier Abreu (Ativa Odde).
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
+            <img src="assets/img/testimonials/testimonials-1.png" class="testimonial-img" alt="">
+            <h3>Ángel Palacios</h3>
+            <h4>Babá Ade Eggun</h4>
           </div>
 
           <div class="testimonial-item">
@@ -737,14 +737,14 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Contact Us</p>
+          <h2>Contacto</h2>
+          <p>Contacto</p>
         </div>
       </div>
 
-      <div data-aos="fade-up">
+      <!-- <div data-aos="fade-up">
         <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-      </div>
+      </div> -->
 
       <div class="container" data-aos="fade-up">
 
@@ -829,7 +829,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Restaurantly</h3>
+              <h3>Funda Ori</h3>
               <p>
                 A108 Adam Street <br>
                 NY 535022, USA<br><br>
@@ -886,11 +886,6 @@
         &copy; Copyright <strong><span>Funda Ori</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
     </div>
   </footer><!-- End Footer -->
