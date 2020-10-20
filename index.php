@@ -63,7 +63,7 @@
       <div class="row">
         <div class="col-lg-8">
           <h1>Bienvenidos a <span>Funda Ori</span></h1>
-          <h2>Santeros en unión por nuestra fé - costumbre - cultura </h2>
+          <h2>Santeros en unión por nuestra fé, costumbre, cultura </h2>
 
           <!-- <div class="btns">
             <a href="#menu" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
@@ -90,7 +90,8 @@
             </div>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>La presencia de valores en expresiones religiosas de origen africano ha sido un tema prácticamente ignorado</h3>
+            <h3>La presencia de valores en expresiones religiosas de origen 
+            africano ha sido un tema prácticamente ignorado</h3>
             <p class="font-italic">
               En  países como el nuestro donde la mayoría de la población tiene creencias religiosas y la religión 
               ejerce influencia a nivel de la vida cotidiana, el papel de los valores religiosos en la orientación 
@@ -111,8 +112,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Why Us</h2>
-          <p>Why Choose Our Restaurant</p>
+          <h2>Por qué nosotros</h2>
+          <p>Nuestra misión, visión y valores</p>
         </div>
 
         <div class="row">
@@ -120,24 +121,28 @@
           <div class="col-lg-4">
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
               <span>01</span>
-              <h4>Lorem Ipsum</h4>
-              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+              <h4>Misión</h4>
+              <p>Ser una fundación reconocida nacional e internacionalmente como íntegra y de valores fuertes, 
+              cuyas acciones siempre se encuadren dentro del marco de la ética religiosa centrada en nuestra 
+              vida cotidiana.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box" data-aos="zoom-in" data-aos-delay="200">
               <span>02</span>
-              <h4>Repellat Nihil</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <h4>Visión</h4>
+              <p>Impulsar actividades de prevención y detección de conductas que no se ajusten a lo  establecido en la regla de osha, 
+              promoviendo acciones en los religiosos que cumplan con los deberes y pautas de comportamiento ético, 
+              al mismo tiempo que fortalezca la confianza de la comunidad.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box" data-aos="zoom-in" data-aos-delay="300">
               <span>03</span>
-              <h4> Ad ad velit qui</h4>
-              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+              <h4>Valores</h4>
+              <p>Servicio a la comunidad religiosa (por terminar) </p>
             </div>
           </div>
 
