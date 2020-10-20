@@ -90,20 +90,15 @@
             </div>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>La presencia de valores en expresiones religiosas de origen africano ha sido un tema prácticamente ignorado</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              En  países como el nuestro donde la mayoría de la población tiene creencias religiosas y la religión 
+              ejerce influencia a nivel de la vida cotidiana, el papel de los valores religiosos en la orientación 
+              de las personas no debe ser obviado.
+            </p><br>
+            <p class="font-italic">
+            Especialmente esta fundación se detiene en aquellos valores religiosos presentes en las religiones de origen africano, 
+            centrándose  en la santería o Regla Ocha por ser la más extendida y de mayor fuerza en Cuba. 
             </p>
           </div>
         </div>
